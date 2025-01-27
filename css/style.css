@@ -23,21 +23,44 @@ nav{
     align-items: center;
     justify-content: space-between;
 }
+.links1{
+    display: flex;
+}
+.birta{
+    background-color: #000;
+    color: #fff;
+    padding: 5px 30px;
+    border-radius: 10px;
+}
 nav a{
     color: #000;
-    margin-left: 20px;
+    margin-left: 30px;
     font-weight: 600;
 }
 .part1-img{
     width: 148px;
     height: 122px;
 }
-.contac{
-    margin-right: 100px;
-}
+
 .boxs{
     margin-top: 160px;
     margin-left: 70px;
+}
+.img01{
+    position: absolute;
+    top: 450px;
+    left: 205px; 
+    z-index: 1;
+}
+.img02{
+    position: absolute;
+    top: 510px;
+    left: 20px; 
+    z-index: 1;
+}
+.part1-text1{
+    margin-top: -20px;
+    margin-left: 20px;
 }
 .part1-text2{
     width: 600px;
@@ -45,7 +68,7 @@ nav a{
     font-weight: 400;
 }
 .part1-text3{
-    padding: 10px 0px;
+    padding: 20px 0px 40px 0px;
     font-size: 20px;
     font-weight: 400;
 }
@@ -54,9 +77,14 @@ nav a{
     border-radius: 4px;
     color: #fff;
     padding: 10px 40px;
+    z-index: 4;
+}
+.box1 a{
+    z-index: 2;
 }
 .links{
     margin-top: -40px;
+    margin-right: 100px;
 }
 .part1-text4{
     width: 343px;
@@ -246,7 +274,7 @@ nav a{
     margin-left: 35px;
 }
 .text15{
-   margin-left: 60px;
+   margin-left: 30px;
    padding: 30px;
 }
 .box18-1{
@@ -262,11 +290,12 @@ nav a{
     margin-left: 35px;
 }
 .text16{
-   margin-left: 60px;
+   margin-left: 40px;
    padding-top: 30px;
 }
 .text17{
     padding-top: 30px;
+    margin-left: 45px;
 }
 .box19-1{
     display: flex;
@@ -297,7 +326,7 @@ nav a{
     margin-left: 35px;
 }
 .text18{
-   margin-left: 60px;
+   margin-left: 40px;
    padding-top: 30px;
 }
 .box21-1{
@@ -313,7 +342,7 @@ nav a{
     margin-left: 35px;
 }
 .text19{
-   margin-left: 60px;
+   margin-left: 130px;
    padding-top: 30px;
 }
 .ProdcutsBTN{
@@ -439,10 +468,103 @@ form{
 .box28{
     margin-left: 250px;
     margin-top: 50px;
+    padding-bottom: 70px;
 }
 #text29{
     padding: 10px 40px;
     background-color: #1E1E1E;
     color: #fff;
     border-radius: 4px;
+}
+.boxs15{
+    background: url(../images/Leonardo_Diffusion_A_cup_of_coffee_beans_the_yellow_colour_of_2\ 1.png) no-repeat center;
+    background-size: cover;
+    height: 700px;
+    background-color: #FBBC04;
+}
+.text30{
+    font-size: 40px;
+    text-align: center;
+    color: #fff;
+    width: 400px;
+    margin: auto;
+    padding-top: 100px;
+}
+.box30{
+    width: 868px;
+    height: 115px;
+    background-color: #000;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 10px;
+}
+.text31{
+    color: #fff;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.text32{
+    color: #fff;
+     border-radius: 10px;
+    background-color: #512615;
+    padding-right: 150px;
+    padding-top: 40px;
+    padding-left: 150px;
+    text-align: center;
+}
+.box30{
+    display: flex;
+    border-radius: 10px;
+    justify-content: space-between;
+}
+.boxs16{
+    background: url(../images/Default_A_website_landing_page_with_a_coffee_beaninspired_font_3_b7c945e5-415f-414f-a603-6eb8caee5f2b_1\ 1.png) no-repeat center;
+    background-size: cover;
+    height: 600px;
+    background-color: #FBBC04;
+}
+.text33{
+    color: #FBBC04;
+    margin-left: 65px;
+}
+.box31{
+    margin-left: 70px;
+    padding-top: 50px;
+}
+.boxs17{
+    display: flex;
+}
+.boxs18{
+    display: flex;
+    flex-direction: column;
+    margin-left: 600px;
+    margin-top: -200px;
+}
+.text35{
+    margin-left: 46px;
+    margin-top: -45px;
+    padding-bottom: 50px;
+    width: 300px;
+    color: #fff;
+    font-size: 34px;
+}
+.text36{
+    margin-left: 46px;
+    margin-top: -45px;
+    color: #fff;
+    font-size:34px;
+}
+.text34{
+    color: #FBBC04;
+    font-size: 28px;
+    margin-top: -20px;
+    padding-bottom: 50px;
+    margin-left: 40px;
+}
+.box35{
+    margin-top: -45px;
+    margin-left: 50px;
+}
+.img0{
+    margin-left: 30px;
 }
