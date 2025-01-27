@@ -126,7 +126,43 @@ nav a{
 }
 .part1-text9{
     color: #512615;
-    font-size: 36px;
+    font-size: 30px;
     font-weight: 400;
     color: #512615;
+    width: 340px;
+    margin-left: 20px;
+}
+.part1-img7{
+     margin-left: -20px;
+     width: 250px;
+     height: 250px;
+     margin-top: -150px;
+}
+.part1-img5{
+    margin-top: 0px;
+    margin-left: 20px;
+}
+.part1-img6{
+    margin-top: -80px;
+}
+.boxs8{
+    display: flex;
+}
+.part1-img9{
+    margin-left: -100px;
+    margin-top: -140px;
+}
+.box9{
+    margin-left: 230px;
+    margin-top: 100px;
+}
+.part1-text10{
+    text-align: center;
+    color: #512615;
+    font-size: 24px;
+    padding-bottom: 20px;
+}
+.part1-img12{
+    width: 374px;
+    height: 374px;
 }
