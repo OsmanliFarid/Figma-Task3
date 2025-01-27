@@ -1,0 +1,132 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+header{
+    background: url(../images/Default_A_website_landingimagine_beautiful_website_for_coffee_3_5e4a731c-d32a-4e0c-a49d-18b89869aa57_1\ 1.png) no-repeat center;
+    background-size: cover;
+    height: 1301px;
+}
+@font-face {
+    font-family: popins;
+    src: url(../fonts/Poppins/Poppins-Regular.ttf);
+}
+
+
+body,html{
+    font-family: popins;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav a{
+    color: #000;
+    margin-left: 20px;
+    font-weight: 600;
+}
+.part1-img{
+    width: 148px;
+    height: 122px;
+}
+.contac{
+    margin-right: 100px;
+}
+.boxs{
+    margin-top: 160px;
+    margin-left: 70px;
+}
+.part1-text2{
+    width: 600px;
+    font-size: 40px;
+    font-weight: 400;
+}
+.part1-text3{
+    padding: 10px 0px;
+    font-size: 20px;
+    font-weight: 400;
+}
+.ShopBtn{
+    background-color: #1E1E1E;
+    border-radius: 4px;
+    color: #fff;
+    padding: 10px 40px;
+}
+.links{
+    margin-top: -40px;
+}
+.part1-text4{
+    width: 343px;
+    font-size: 20px;
+    margin-top: 490px;
+}
+.part1-text5{
+    width: 380px;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 400px;
+    margin-left: 360px;
+}
+.boxs2{
+    display: flex;
+}
+.part1-img2{
+    margin-left: 650px;
+    margin-top: -20px;
+}
+.container{
+    background-color: orange;
+}
+.boxs4{
+    text-align: center;
+}
+.part1-text6{
+    padding-top: 20px;
+    color: #512615;
+    font-size: 100px;
+}
+
+.box5{
+    display: flex;
+    justify-content: end;
+    margin-top: -40px;
+    margin-right: 40px;
+}
+.boxs5{
+    margin-left: 40px;
+}
+.box6{
+    display: flex;
+    width: 705px;
+    align-items: center;
+}
+.part1-text7{
+    color: #512615;
+    font-size: 36px;
+    font-weight: 400;
+    margin-left: 60px;
+}
+.box7{
+    display: flex;
+    margin-left: 155px;
+    margin-top: -180px;
+}
+.part1-text8{
+    margin-top: 200px;
+    width: 350px;
+    font-size: 36px;
+    font-weight: 400;
+    color: #512615;
+}
+.box8{
+    display: flex;
+}
+.part1-text9{
+    color: #512615;
+    font-size: 36px;
+    font-weight: 400;
+    color: #512615;
+}
